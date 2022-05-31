@@ -1,0 +1,169 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	<title>EAC Toolkit Instructor Module: Practical and Professional Ethics Pre-Test</title>
+	<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>677c8ffd-40ab-46a8-b027-610ff0edad9b</md:uuid>
+</metadata>
+	<!-- TO EDIT THE INFORMATION ABOVE GO TO THE METADATA SECTION TAB -->
+	<!-- START OF THE CONTENT/BODY OF THIS CNX MODULE -->
+	<content>
+		<!-- START OF FIRST SECTION -->
+		<section id="modulecore">
+			<title>REFERENCE OR LINK TO STUDENT MODULE</title>
+			<!-- A BULLETED LIST -->
+			<list id="element-782" list-type="bulleted">
+				<item> Link or Reference to the corresponding student module in Connexions® (cnx.org)</item>
+				<item> Reference or Link to the corresponding student module.  For example: 
+
+<!-- A NESTED BULLETED LIST -->
+					<list id="smexamples" list-type="bulleted">
+						<item> Link (URL) to a module or resource available online</item>
+						<item> Reference to a textbook case or exercise </item>
+						<item> Reference to a magazine or journal article </item>
+						<item> Reference to a news story </item>
+						<item> Reference to a movie or show</item>
+						<item> Etc. </item>
+					</list>
+					<!-- END OF NESTED BULLETED LIST -->
+				</item>
+				<!-- END OF ITEM THAT INCLUDES THE BULLETED LIST -->
+			</list>
+			<!-- END OF THE MAIN BULLETED LIST -->
+			<!-- END OF FIRST SECTION -->
+		</section>
+		<!-- START OF SECOND SECTION -->
+		<section id="eactkmk">
+			<title>INSTRUCTOR RESOURCES(Sharing Best Practices in EAC!) </title>
+			<para id="element-35"><emphasis>This section contains information related to the above referenced Student Module. The intent and expectation is that the information contained in this section will evolve over time based on the experiences and collaborations of the authors and users of the Student Module and this Instructor Module.  For example, the authors, collaborators or users can provide the following kind of information (mainly directed at or intended for instructors).</emphasis></para>
+			<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+			<section id="modbkgrd">
+				<title>Module-Background Information</title>
+				<para id="objexamples">Originally, this exercise was presented in a textbook by Gary B. Shelly, Thomas J. Cashman, Misty E. Vermaat entitled, Discovering Computers 2005: A Gateway to Information, Web Enhanced-Complete,Shelly Cashman Series, Course Technology: Boston, MA. P. 589.  In its initial form, it prompted students to reflect on the distinction between legal and illegal, criminal and legitimate in the context of short scenarios taken from the area of computing.  However, Dr. Cruz has redesigned this exercise to introduce basic ethical issues and skills in computing.  While its first instantiation occured in a presentation in a retreat held in Marciao, Puerto Rico in 1999, other instantiations include its being a regular feature in introduction to computers classes, engineering ethics classes, faculty development workshops, and special ethics across the curriculum integration efforts in Electrical Engineering.  In the last version, Luis Jimenez and Efrain O'Neill used this exercise as a pre- and a post-test activity to assess the effectiveness of their more expansive module for introducing engineering ethics to students in electrical engineering capstone design courses.
+</para>
+			</section>
+			<!-- END OF SUBSECTION -->
+			<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+			<para id="element-103">This Pre-Test has been developed and refined through a variety of National Science Foundation supported grants in ethics across the curriculum in practical and professional ethics, especially NSF SBR-09810253 (1998-2000) and NSF SES 0551779 (2006-2008). </para>
+			<section id="learninggoals">
+				<title>Learning Objectives</title>
+				<para id="lrnobj">What are the intended learning objectives or goals for this module?  What other goals or learning objectives are possible?  </para>
+				<list id="element-929" list-type="bulleted"><title>Skills Objectives</title>
+					<item>This activity is based on four skills for ethical empowerment that have been detailed in Cruz/Frey 2003: ethical awareness, ethical evaluation, ethical integration and ethical prevention.</item>
+					<item> This list of moral skills is by no means exhaustive or exclusive. For example, it does not cover moral imagination, moral creativity, becoming a member of a professional community, or perseverance.</item>
+					<item>Readers are encouraged to consult the moral development skills that are available in Kohlberg, Rest, Huff/Frey, and the widely accepted Hastings Center List. Bibliographical references below will provide ample resources that different institutions or groups can use to build a list of skills of moral development to fit their needs and resources.
+</item></list><list id="element-651" list-type="enumerated"><item><emphasis>Ethical Awareness</emphasis> consists of the student's ability to select and frame moral issues and problems that arise in ordinary, day-to-day research practice. </item>
+					<item><emphasis>Ethical evaluation</emphasis> skills allow students to bring ethical principles, concepts, theories, and values to bear on the problems they identify in research scenarios and use these to accomplish moral reasoning and judgment.</item>
+					<item><emphasis>Ethical integration</emphasis> skills give ethical principles, concepts, theories, and values a constitutive role in creating and designing solutions to moral problems and generating decision alternative sthat integrate moral (and non-moral) values. 
+</item>
+					<item><emphasis>Ethical prevention</emphasis> skills are employed to identify value conflicts inherent in research projects and the socio-technical systems into which they are integrated. Prevention skills more from early identification of these conflicts to the development of counter-measures that prevent them from developing into full-blown moral problems or dilemmas. 
+</item>
+					<item>These objectives form a series in which the more complex skills presuppose and build upon the simpler ones: ethical evaluation takes place when awareness skills are mastered; integration presupposes evaluation and awareness; prevention builds upon the mastery of the three more basic skills. To reflect this serial relation of ethics objectives, ethics across the curriculum modules should be sequenced so that so that subsequent interventions build upon the skills mastered in earlier ones.  This pre-test, by generating awareness, can help prepare the foundation for more advanced interventions.</item>
+					<item>Those who adopt this module are cautioned against taking this idea of sequential development to its extremes. The sequence is not uni-directional; students can and should work on maintaining awareness even after they have practiced prevention. More than one skill can be pursued at a time. Students could participate in EAC activities out of sequence and still benefit. But ordering these workshops sequentially and generally requiring students to move from awareness, through evaluation and integration, to prevention makes sense.  In general, interventions targeting simpler skills should precede those targeting more complex and advanced skills.</item>
+				</list><list id="element-431" list-type="bulleted"><title>These content objectives come from AACSB criteria.  They have been quoted from the AACSB Ethics Task Force Report.</title>
+					<item><emphasis>Ethical Leadership</emphasis> (EL): (a) “Expanding…awareness to include multiple stakeholder interests and…developing and applying…ethical decision-making skills to organizational decisions in ways that are transparent to…followers.” (b) “Executives become moral managers by recognizing and accepting their responsibility for acting as ethical role models.”</item>
+					<item><emphasis>Decision-Making</emphasis> (DM): “Business schools typically teach multiple frameworks for improving students’ ethical decision-making skills. Students are encouraged to consider multiple stakeholders and to assess and evaluate using different lenses and enlarged perspectives.”</item>
+					<item><emphasis>Social Responsibility</emphasis> (SR): “Businesses cannot thrive in environments where societal elements such as education, public health, peace and personal security, fidelity to the rule of law, enforcement of contracts, and physical infrastructures are deficient.”</item>
+					<item><emphasis>Corporate Governance</emphasis> (CG): (a) “Knowing the principles and practices of sound, responsible corporate governance can also be an important deterrent to unethical behavior.” (b) “Understanding the complex interdependencies between corporate governance and other institutions, such as stock exchanges and regulatory bodies, can be an important factor in managing risk and reputation.”</item></list>
+			</section>
+			<!-- END OF SUBSECTION -->
+			<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+			<list id="element-802" list-type="bulleted"><title>Short Bibliography on Moral Development and Ethics Skills</title>
+				<item>Kohlberg, Lawrence. 1981. <emphasis>The Philosophy of Moral Development: Essays on Moral Development</emphasis>, vol.1. San Francisco: Harper and Row.</item>
+				<item>Pritchard, Michael S. 1996. <emphasis>Reasonable Children: Moral Education and Moral Learning</emphasis>. Lawrence, KS: University of Kansas Press: 11.</item>
+				<item>Rest, James, Narvaez, Darcia, Bebeau, Muriel, and Thoma, Stephen. 1999. <emphasis>Postconventional Moral Thinking: a Neo-Kohlbergian Approach</emphasis>. Mahwah, NJ: Lawrence Erlbaum Associates, Inc. </item>
+				<item>Huff, Chuck and Frey, William. 2005. "Moral Pedagogy and Practical Ethics" in <emphasis>Science and Engineering Ethics 11</emphasis>(3): 394-397.</item>
+				<item>Cruz, Jose and Frey, William. 2003. "An Effective Strategy for Integrating Ethics Across the Curriculum in Engineering: An ABET 2000 Challenge" in <emphasis>Science and Engineering Ethics 9</emphasis>(4): 546-547.</item>
+			</list><section id="pedagogicalstrategies">
+				<title> Instructional / Pedagogical Strategies </title>
+				<para id="assessmentexamples">Which pedagogical or instructional strategies are used or suggested for this module.  (For example: Discussion/Debate, Decision-Making Exercise, Presentation, Dramatization or Role Playing, Group Task, Formal or Informal Writing, Readings, among others)</para><list id="element-548" list-type="bulleted"><title>This module employs the following pedagogical strategies:</title>
+					<item><emphasis>General Class Discussion</emphasis>: Students read the scenarios and answer the questions.  Then the instructor engages the class  in a discussion of the first scenario.  Taking the pre-test before the discussion "primes the pump" so to speak.  It gets students thinking about ethics and computing and thus readies them for a productive discussion.</item>
+					<item><emphasis>Cooperative Learning</emphasis>: If the instructor has time, he or she can organize small group discussions of the scenarios in the Pre-Test.  Students can be asked to reach an agreement on their assessment of a scenario, debrief to the instructor and the class, and reflect on the process of how they reached agreement.  If they fail to reach agreement, they can be asked to reflect on the obstacles to consensus.  Thus, students engage in cooperative learning and reflect on the dynamics of small group interaction.</item>
+					<item><emphasis>Eliciting Knowledge</emphasis>: With practice, the instructor leading the Pre-Test exercise can learn to elicit knowledge from students during the discussion.  Certain phrase that students use "encode" the moral schemas we have developed to make sense of situations and help us recognize and respond to the moral aspects of our situations.  In a section below, there is a list of student comments and a discussion of how these comments tie into certain ethics tests and the underlying ethical approaches.  Students can become aware of ethics by, paradoxically, being led to see that they are already thinking ethically.  This recognition of embedded ethical thought is a powerful tool for generating ethical awareness in students.</item>
+					<item><emphasis>Critical Thinking</emphasis>: This module can also be used to promote critical thinking skills.  The discussion leader can underscore and classify the argument techniques students are using through metacomments.  (E.g., You are making a use of analogical argumentation by comparing sending e-mails with making phone conversations.")  The discussion leader can also make just-in-time suggestions to students on how to formulate their arguments by helping them to see the relation between premises and conclusions, distinguishing the empirical and value components of ethical arguments, and discussing the difference between emotional and rational persuasion.  Doing this through just-in-time insertions requires practice and patience but this exercise is an effective means to carry out these objectives.</item>
+					<item><emphasis>Structured Discussion</emphasis>: Ethics tests (reversibility, publicity, harm) are introduced into the second half of this exercise to provide students with aids in structuring their discussion of ethical issues and in making ethical arguments and justifications.  The students discuss a scenario without the tests; then they discuss a scenario with the ethics tests.  When asked to reflect on the two experience, they begin to see how ethical approaches can help us to hold structured and orderly conversations about even contentious ethical issues.</item>
+					<item><emphasis>Pre-Module Skills</emphasis>: This module is an introductory exercise designed to build basic skills in moral reasoning and judgment.  As such it can be used at an introductory level with little or no advanced preparation.  In fact, this activity has, as was mentioned above, been used as an assessment tool to gain a rough idea of where students are in their moral development.  Using Kohlberg's scale of moral development, students can be roughly located in terms of pre-conventional, conventional, and post-conventional moral development by listening carefully to the kinds of justifications they provide for their positions vis a vis the scenarios.</item></list>
+			</section>
+			<!-- END OF SUBSECTION -->
+			<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+			<section id="assessmentaol">
+				<title> Assessment / Assurance of Learning </title>
+				<para id="bkgdexamples">What assessment or assurance of learning methods are used or suggested for this module?  (For example: 1-minute paper, Muddiest Point, Quiz/Test Items, Oral Presentation, Student Feed-back, among others). What did or didn't work?
+ </para><figure id="element-587"><title>EAC Matrix for Pre-Test</title>
+					<media id="idp9770320" alt=""><download src="EACMatrix_PreTest.doc" mime-type="application/msword"/></media>
+					<caption>This matrix maps the Pre-Test on three assessment spaces by (1) locating it within the ADEM curriculum, (2) identifying the targeted moral learning objectives, and (3) singling out the AACSB ethics criteria targeted in the exercise.</caption>
+				</figure>
+			</section>
+			<!-- END OF SUBSECTION -->
+			<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+			<figure id="element-44"><title>Muddiest Point Exercise</title>
+				<media id="idp12852576" alt=""><download src="MP.doc" mime-type="application/msword"/></media>
+				<caption>This short assessment exercise allows students to reflect on the strong and weak points of this module.</caption>
+			</figure><figure id="element-971"><title>General EAC Module Assessment Form</title>
+				<media id="idp7672080" alt=""><download src="MAP.doc" mime-type="application/msword"/></media>
+				<caption>This brief assessment form, adopted from one used in EAC workshops by Michael Davis of IIT, provides a general comprehensive survey of the different aspects of this activity.</caption>
+			</figure><section id="commentary">
+				<title> Pedagogical Commentary </title>
+				<para id="commentaryexamples">Any comments or questions regarding this module?  (For example: suggestions to authors, suggestions to instructors (how-to), queries or comments directed o EAC community, pitfalls or frustrations, novel ideas/approaches/uses, etc.)</para><para id="element-464"><title>Pre-Test</title>
+This exercise provides students from a variety of disciplines who are in their first or second year of college with basic skills to help them develop arguments that support or refute ethical positions.  Also, it will allow students to practice skills that can be applied outside the context of computing.  A textbook exercise provides the template from which this activity has been developed.  Originally, it asked students to consider whether the activity depicted in a scenario constituted a computer crime.  This modification provides more room for discussion, helps illustrate that ethical issues are not just "black or white," and allows students to discuss related ethical issues outside the context of computers and information and technology. </para>
+			</section>
+			<!-- END OF SUBSECTION -->
+			<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+			<list id="element-571" list-type="bulleted"><title>Step 1: Students individually evaluate and discuss whether scenarios are ethical
+</title>
+				<item>The first step of the exercise is to have students individually evaluate 8 to 10 scenarios using the following 3 questions:</item>
+				<item>1. Do you think this situation is common/realistic?  (Yes or No)</item>
+				<item>2. Do you think this situation is ethical or unethical?  (Ethical or Unethical)</item>
+				<item>3. Do you think others may disagree with you?  (Yes or No)</item>
+				<item>The first question emphasizes the fact that we are considering real-world issues.  The second question asks students to provide an intuitive answer by evoking an honest, anonymous opinion on the issue.  The third question serves to illustrate that the issues are not "black or white".</item>
+				<item>Scenarios can be taken from a variety of sources: textbook exercises, newspapers, movies, and from any other source that suggests something provocative and realistic.</item>
+			</list><para id="element-258"><title>Step 2: Informal Discussion of Scenarios</title>
+In step one, students begin by reflecting on the issues individually.  In step two, the instructor leads an informal discussion of a few scenarios.  For example, the class could consider whether using a computer at work to send e-mail to relatives is ethical.  This simple statement can easily generate 20 to 30 minutes of lively discussion.  Our experience has been that some students will advocate one extreme (that the action is unethical) while others will argue the other extreme (that the action is customary and ethically permissible).  Many students will try to secure the middle ground by citing circumstances in which it is ethically permissible (when workers are taking a break) and when it is impermissible (when a worker spends too much time doing this).
+  </para><list id="element-240" list-type="bulleted"><title>For example some specific examples from our students are following:</title>
+				<item>"I don’t want to be treated as a slave or robot.”</item>
+				<item>“These people get paid well to work.”</item>
+				<item>“Some work hard, while others surf the Internet?”</item>
+				<item>“As long as my boss doesn’t see me …”
+</item>
+				<item>“I minimize the browser …”</item>
+				<item>“Maybe someone opens an e-mail with a virus …"</item>
+				<item>“Maybe the person doesn’t have a PC at home?”</item>
+				<item>“Isn’t this similar to using the phone to call a friend?”</item>
+				<item>“Everybody does it!”</item>
+			</list><para id="element-797">This exercise gives students practice framing moral arguments.  Students will offer analogies based on the telephone, fax, or regular mail.  Many offer examples from their own real-world experiences.  Discussing the scenarios familiarizes students with the complexity of the issues, gives them practice in drawing analogies with their own experiences, and helps them to frame moral arguments.
+
+ </para><para id="element-613"><title>Step 3: Ethical Decision-Making Tests Provide Insight and Focus</title>
+The informal group discussion sets up the next stage since students already have raised many relevant issues in their comments.  In the third step, several intuitive ethical tests are applied to two or three of the scenarios.  
+
+ </para><list id="element-532" list-type="bulleted"><title>Ethics Tests</title>
+				<item>Reversibility: Would I think this a good choice if I were among those affected by it?</item>
+				<item>Publicity: Would I want this action published in the newspaper?</item>
+				<item>Harm: Does this action do less harm than a possible alternative?</item>
+				<item>Code Test: Does this action violate a code provision?</item>
+			</list><list id="element-269" list-type="bulleted"><item>These tests help students to formulate supporting arguments that evaluate the scenarios. Often during the informal group discussion, these tests have already been employed either by the students themselves or informally by the instructor.  In either case, it is important for students to realize that they are thinking already in ethical terms and that their ethical reflection is complex and sophisticated.  It is also helpful to use local idioms for expressing these notions (especially in Puerto Rico).  For example, the expression, "putting yourself in someone else's shoes" is a good way of presenting the reversibility test.  This helps students realize that their parents, teachers, and religious leaders have passed on much of this "wisdom" to them. </item>
+				<item>It is very helpful to refer to students’ remarks as a means to explain the tests and help them realize that they already incorporate these notions in their decision-making.
+
+</item>
+			</list><para id="element-683"><title>Step 4: Student Groups Re-evaluate Scenarios with Ethics Tests
+</title>
+The next step allows students to apply the ethics tests.  In groups of three or four, the students select two or three scenarios and re-evaluate them using the tests to sharpen their ethical arguments.  The results are impressive: students quickly reach a consensus, back their positions with well-constructed ethical arguments, and emerge from the discussion with more confidence.  They are, in short, ethically empowered.  A debriefing session follows in which students summarize their group results with the rest of the class.  This, in turn, generates more discussion.
+ </para><para id="element-216"><title>Step 5: Brief Discussion of the Importance of Ethics</title>
+ At this stage of the exercise a brief discussion on the importance of ethics helps synthesize the exercise.  Issues that can be raised: (1) awareness that ethics affects our behavior, (2) incorporating ethical considerations early into the decision-making process helps to avoid ethical dilemmas later on, (3) we can learn from past problems and adjust future actions to avoid their repetition, (4) everybody practices ethics, not just the so-called expert, and (5) generally speaking, "Good ethics is good business."  We conclude the exercise with the slogan, "Be Ethical, be Wise."
+
+ </para><para id="element-981"><title>Step 6: Some students want to learn more…where to go from here?
+</title>
+ Past experience indicates that this exercise has had an impact on students.  Frequently, they ask for more information about ethics.  We have made the following suggestions: take a formal course in engineering or business ethics, watch for ethical issues in the media, study professional and corporate codes of conduct, and do not ignore ethics-related chapters/excerpts available in many textbooks.  Finally, we encourage them to discuss related situations (scenarios or experiences) with friends.
+ </para><list id="element-676" list-type="bulleted"><title>Conclusion</title>
+				<item>The goal is to promote ethical-empowerment in our students.
+What has impressed us most by this exercise is the way in which it changes the student's perspective on ethics in the direction of empowerment.  In fact, it promotes ethical-empowerment in several ways:</item>
+				<item>Students learn to recognize ethical problems in the real-world.</item>
+				<item>Students discover that they unconsciously employ ethical concepts and principles in their thinking.  Thus, using the ethics tests helps students to recognize and practice the ethics skills they already possess.</item>
+				<item>It gives students practice (and confidence) in formulating ethical arguments.</item>
+				<item>It excites an interest in ethics that often leads to follow-up activities.</item>
+				<item>Instructors who are not experts in ethics can use this exercise and integrate it into their classes.  In fact, by carefully selecting scenarios, instructors can help students to see how ethics is a natural and essential part of real-world engineering practice.</item>
+			</list><section id="supplements">
+				<title>Appendix (Annotated)</title>
+				<para id="apxexamples">Additional information or annotations for instructors regarding the Student Module Appendix</para>
+			</section>
+			<!-- END OF SUBSECTION -->
+		</section>
+		<!-- END OF SECOND SECTION AFTER ALL SUBSECTIONS-->
+	</content>
+</document>

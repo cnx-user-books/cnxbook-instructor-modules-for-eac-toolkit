@@ -1,0 +1,155 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	<title>EAC Toolkit Instructor Module: Being An Ethical Job Candidate</title>
+	<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a68eb305-7cdf-49c5-bfa1-13fe754dc1ea</md:uuid>
+</metadata>
+	<!-- TO EDIT THE INFORMATION ABOVE GO TO THE METADATA SECTION TAB -->
+	<!-- START OF THE CONTENT/BODY OF THIS CNX MODULE -->
+	<content>
+		<!-- START OF FIRST SECTION -->
+		<section id="modulecore">
+			<title>REFERENCE OR LINK TO STUDENT MODULE</title>
+			<!-- A BULLETED LIST -->
+			<list id="element-782" list-type="bulleted">
+				<item> Link or Reference to the corresponding student module in Connexions® (cnx.org)</item>
+				<item> Reference or Link to the corresponding student module.  For example: 
+
+<!-- A NESTED BULLETED LIST -->
+					<list id="smexamples" list-type="bulleted"><title>Module Sources</title>
+						<item>IEEE Professional Employment Guidelines for Engineers and Scientists published by Stephen Unger in <emphasis>Controlling Technology: Ethics and the Responsible Engineer</emphasis>.</item>
+						<item> Cases based on situations presented to the author in Practical and Professional Ethics classes at the University of Puerto Rico at Mayaguez.</item>
+						<item> Case found at Online Ethics describing a surprise drug test during an interview.  This case has been revised here to incorporate other student experiences.</item>
+					</list>
+					<!-- END OF NESTED BULLETED LIST -->
+				</item>
+				<!-- END OF ITEM THAT INCLUDES THE BULLETED LIST -->
+			</list>
+			<!-- END OF THE MAIN BULLETED LIST -->
+			<!-- END OF FIRST SECTION -->
+		</section>
+		<!-- START OF SECOND SECTION -->
+		<section id="eactkmk">
+			<title>INSTRUCTOR RESOURCES(Sharing Best Practices in EAC!) </title>
+			<para id="element-35"><emphasis>This section contains information related to the above referenced Student Module. The intent and expectation is that the information contained in this section will evolve over time based on the experiences and collaborations of the authors and users of the Student Module and this Instructor Module.  For example, the authors, collaborators or users can provide the following kind of information (mainly directed at or intended for instructors).</emphasis></para>
+			<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+			<section id="modbkgrd">
+				<title>Module-Background Information</title>
+				<para id="objexamples">Where did this module come from? (e.g. A workshop, news story, based on a movie, etc.)  What condition is it in? (e.g. first draft, needs editing, publishable, etc.)  How has it been used in the past? (e.g. in classroom, workshop activity, ethics debate, etc.)  Other relevant or interesting details</para>
+				<para id="element-230">This module comes from students who have shared their experiences as job candidates during practical and professional ethics classes held at the University of Puerto Rico at Mayaguez.  It also comes from an attempt to disseminate and apply the Guidelines for Employment for Engineers and Scientists developed by the IEEE and published in Stephen Unger's book, <emphasis>Controlling Technology</emphasis>.  (See complete references below.)</para></section>
+			<!-- END OF SUBSECTION -->
+			<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+			<section id="learninggoals">
+				<title>Learning Objectives</title>
+				<para id="lrnobj">What are the intended learning objectives or goals for this module?  What other goals or learning objectives are possible?  </para><para id="element-513"><title>Content Objectives</title>
+The content objectives presented below come from the AACSB Ethics Education Task Force Report. A similar list could be developed using ABET a-k criteria. </para><list id="element-7" list-type="bulleted"><title>Content Objectives</title>
+					<item>
+						<emphasis> Ethical Leadership (EL)</emphasis>: (a) “Expanding…awareness to include multiple stakeholder interests and…developing and applying…ethical decision-making skills to organizational decisions in ways that are transparent to…followers.” (b) “Executives become moral managers by recognizing and accepting their responsibility for acting as ethical role models.”</item>
+					<item><emphasis>Decision-Making (DM)</emphasis>: “Business schools typically teach multiple frameworks for improving students’ ethical decision-making skills. Students are encouraged to consider multiple stakeholders and to assess and evaluate using different lenses and enlarged perspectives.”</item>
+					<item><emphasis>Social Responsibility (SR)</emphasis>: “Businesses cannot thrive in environments where societal elements such as education, public health, peace and personal security, fidelity to the rule of law, enforcement of contracts, and physical infrastructures are deficient.” </item>
+					<item><emphasis>Corporate Governance (CG)</emphasis>: (a) “Knowing the principles and practices of sound, responsible corporate governance can also be an important deterrent to unethical behavior.” (b) “Understanding the complex interdependencies between corporate governance and other institutions, such as stock exchanges and regulatory bodies, can be an important factor in managing risk and reputation.”</item></list><list id="element-951" list-type="bulleted"><title> Below are four different sets of skills objectives: </title>
+<item>Four levels of development spelled out by David R. Haws for Engineering Ethics</item>					
+<item> Skill objectives used at UPRM in various EAC efforts</item>
+					<item> The Hastings Center List</item>
+					<item> A list presented by Huff and Frey (referenced below) that combines recent research in moral psychology with skills useful for students learning the practice and profession of computing that includes computer science, computer engineering, and software engineering</item></list><list id="element-391" list-type="bulleted"><title>Four Development Levels from Haws</title>
+<item>Haws provides a development scale that measures different degrees and kinds of moral reasoning and moral autonomy.  Success is measured in terms of accomplishing principle-based moral reasoning where principles are internalized and seen as the manifestation of a morally autonomous will</item>
+<item><emphasis>Instilling moral principles as dogma:</emphasis> (A “minimalist approach that would leave our students with formulated dogma-—principles of right and wrong such as the National Society for Professional Engineers (NSPE) Code of Ethics for Engineers-—but without any insight into the genesis of these principles” (204))</item>
+<item><emphasis>Manipulating Moral Principles with Heuristics:</emphasis> (“systematic procedures like problem-solving heuristics that focus on the piece-wise solution of simplified ethical dilemmas” (208)  Example:  Vivian Weil’s iterative (non-linear) design model which can be found in Davis, Ethics and the University.</item>
+<item><emphasis>Inducing Moral Principles through Case Studies:</emphasis> (“ A macro-ethics approach—helping students to inductively construct a posteriori principles from case studies—goes beyond the simple statement or manipulation of principles, but falls short of linking personal moral principles to the larger, social context.” (204))</item>
+<item><emphasis>Understanding Moral Values through Meta-analysis:</emphasis> (“students will need to not only encounter important ethical theories but will need to experience the minds where those theories evolved.  This can only be accomplished…with a critical reflection on primary source readings.” (209))</item>
+</list><list id="element-964" list-type="bulleted"><title>UPRM Ethical Empowerment Skills List</title>
+					<item>UPRM Objectives are described in the context of faculty development workshops in the Science and Engineering Ethics article by Cruz and Frey referenced below:</item>
+					<item><emphasis>Ethical Awareness</emphasis> is promoted by discussing cases and scenarios in which are embedded basic moral concepts (duty, right, good) and intermediate moral concepts (conflict of interest, privacy, confidentiality).  By showing students how these concepts are present in everyday professional and occupation experience, ethical awareness dramatizes the importance of ethics in everyday experience and emphasizes the need to understand these ethical considerations as thoroughly as possible.”</item>
+					<item><label>Ethics and the University</label><emphasis>Ethical Evaluation</emphasis>: “ the ability to assess a product or process in terms of different ethical approaches such as utilitarianism, rights theory, deontology, and virtue ethics.” This skill can be demonstrated by ranking solution alternatives to decision points provided in cases and scenarios in terms of ethics tests that partially encapsulate ethical theory.  Tests such as reversibility, harm, and publicity are useful in this context because they (partially) embody the ethical approaches of deontology, utilitarianism, and virtue ethics, respectively.  (See Davis -  for more about the ethics tests and for more ethics tests.)</item>
+					<item><emphasis>Ethical Integration</emphasis>: “the ability to integrate—not just apply—ethical considerations into an activity (such as a decision, product or process) so that ethics plays an essential, constitutive role in the final results.”  It can also be described as the skill of systematically designing solutions that integrate moral value that can be manifested when students use a decision-making heuristics such as the Software Development Cycle or the Seven-Step Decision-Making Framework to resolve problems raised in ethics cases or scenarios.</item>
+					<item><emphasis>Ethical Problem Definition</emphasis>: the ability to (a) uncover potential ethical and social problems latent in a socio-technical system and (b) develop effective counter-measures to prevent these latent problems from materializing or to minimize their harmful or negative impact. Ethical Problem Definition makes use of socio-technical system analysis to uncover latent ethical problems and formulate effective counter/preventive measures.</item>
+					<item><emphasis>Value Realization</emphasis>: “the ability to recognize and exploit opportunities for using skills and talents to promote community welfare, enhance safety and health, improve the quality of the environment, and (in general) enhance wellbeing.  It involves employing technical knowledge, experience, and expertise toward the end of realizing moral values.
+</item>
+				</list><list id="element-769" list-type="bulleted"><title>Hastings Center Goals</title>
+					<item>Stimulate the moral imagination of students </item>
+					<item>Help students recognize moral issues</item>
+					<item>Help students analyze key moral concepts and principles</item>
+					<item>Elicit from students a sense of responsibility</item>
+					<item>Help students to accept the likelihood of ambiguity and disagreement on moral matters, while at the same time attempting to strive for clarity and agreement insofaras it is reasonably attainable
+(from Pritchard, Reasonable Children, 15)</item>
+				</list><list id="element-436" list-type="bulleted"><title>Goals for ethical education in science and engineering derived from psychological literature (Huff and Frey)</title>
+					<item>Mastering a knowledge of basic facts and understanding and applying basic and intermediate ethical concepts.</item>
+					<item>Practicing moral imagination (taking the perspective of the other, generating non-obvious solutions to moral problems under situational constraints, and setting up multiple framings of a situation)</item>
+					<item>Learning moral sensitivity</item>
+					<item>Encouraging adoption of professional standards into the professional self-concept</item>
+					<item>Building ethical community</item>
+				</list>
+			</section>
+			<!-- END OF SUBSECTION -->
+			<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+			<section id="pedagogicalstrategies">
+				<title> Instructional / Pedagogical Strategies </title>
+				<para id="assessmentexamples">Which pedagogical or instructional strategies are used or suggested for this module.  (For example: Discussion/Debate, Decision-Making Exercise, Presentation, Dramatization or Role Playing, Group Task, Formal or Informal Writing, Readings, among others)</para><list id="element-777" list-type="bulleted"><title>This module employs the following pedagogical strategies:</title>
+					<item>
+						<emphasis> Formal Presentation</emphasis>: Instructor presents IEEE Guidelines to students along with cases.  Presentation can include other experiences that students and instructors have had concerning situations that arise in job searches, interviews, and negotiations over employment contracts.</item>
+					<item><emphasis>Case Discussion</emphasis>: Students discuss cases as a class or in small groups.  The advantage of having students break into smaller groups is that there is more opportunity for individual discussion.</item>
+					<item><emphasis>Informal Writing</emphasis>: This module can be organized to allow for informal writing.  For example, students could begin the module by writing informally over whether they think there are ethical problems that arise in job candidacy and, if so, what are the problems they have experienced.  If students work through the decision points posed by the cases, the discussion groups could prepare written debriefing summaries.</item>
+					<item><emphasis>Cooperative Learning</emphasis>: Students are divided into teams to discuss different cases, conceptual difficulties, respond to decision points, and evaluate the solution alternatives given after some of the cases. </item>
+					<item>Other possibilities lie in converting this module into Pre-Test or Gray Matters form.  This would allow for different pedagogical strategies.  Also, some of these cases have been successfully used in the UPRM Practical and Professional Ethics Bowl debates.</item>
+					<item><emphasis>Eliciting Knowledge</emphasis>: Skillly led discussions with questions and just-in-time comments can help to elicit knowledge from students and lead them to reflect on and structure better their knowledge and experience.</item></list></section>
+			<!-- END OF SUBSECTION -->
+			<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+			<section id="assessmentaol">
+				<title> Assessment / Assurance of Learning </title>
+				<para id="bkgdexamples">What assessment or assurance of learning methods are used or suggested for this module?  (For example: 1-minute paper, Muddiest Point, Quiz/Test Items, Oral Presentation, Student Feed-back, among others). What did or didn't work?
+ </para><list id="element-579" list-type="bulleted"><title>Informal Assessment</title>
+					<item>Preparing solution evaluation tables would help to provide assessment of decision making and ethical evaluation skills of students.</item>
+					<item>Preparing a socio-technical system table outlining the components of the interviewing situation would help students to define problems and assess this activity.</item>
+					<item>Students could role play as job candidates and interviewers and write scripts which would also contribute to assessment efforts.</item></list><figure id="element-237"><title>EAC matrix</title>
+					<media id="idp10037424" alt=""><download src="EACMatrix_BEJC.doc" mime-type="application/msword"/></media>
+					<caption>This EAC Matrix identifies the learning objectives of the corresponding student module by cross referencing the moral development objectives, accreditation criteria, and the curricular "space" the module fills.</caption>
+				</figure><figure id="element-110"><title>Muddiest Point Assessment Form</title>
+					<media id="idp6595440" alt=""><download src="MP.doc" mime-type="application/msword"/></media>
+					<caption>The attached word document provides a handout to assess this module in terms of its weakest and strongest points.</caption>
+				</figure><figure id="element-349"><title>Module Assessment Form</title>
+					<media id="idp224640" alt=""><download src="MAP.doc" mime-type="application/msword"/></media>
+					<caption>This figure contains an assessment handout that modifies a form developed by Michael Davis for IIT EAC workshops.</caption>
+				</figure>
+			</section>
+			<!-- END OF SUBSECTION -->
+			<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+			<section id="commentary">
+				<title> Pedagogical Commentary </title>
+				<para id="commentaryexamples">Any comments or questions regarding this module?  (For example: suggestions to authors, suggestions to instructors (how-to), queries or comments directed o EAC community, pitfalls or frustrations, novel ideas/approaches/uses, etc.)</para><list id="element-894" list-type="bulleted"><item><emphasis>This module combines presentation and discussion formats</emphasis>: First presented by William Frey before students in a Mechanical Engineering Capstone Design course in spring 2007, this module integrates instructor presentation and student discussion.  The student discussion begins with the class interacting with the presenter and then moves to more focused discussions of case scenarios in small student groups.  This first presentation of the module followed closely the slides in the PowerPoint file provided below.</item>
+					<item><emphasis>Small Group Discussion Worked Well</emphasis>: After a quick preview of the Employment Guidelines, the important concepts (e.g., Sincere Interest), and the cases, the students were divided into small groups of four (the entire class consisted of around 60 students) and each group was assigned one of the 10 cases provided in the presentation.  Students discussed the cases and responded to the decision points in the scenarios by designing value-realizing solutions.  Then around half of the 10 groups debriefed.  The entire activity took three hours.</item>
+					<item><emphasis>Student Mentors</emphasis>: In presenting the module before a large class of over 60 students, the instructor had help from mechanical engineering students taking business ethics who mentored their mechanical engineering peers.  Business Ethics student mentors floated from one small discussion group to another to help these groups integrate values and ethics tests into their solutions to the decision points.  Student mentoring has the potential to play a greater role in ethics integration exercises and also helps establish productive links between freestanding ethics courses and EAC integration exercises.</item>
+					<item><emphasis>Module could be converted into Gray Matters Format</emphasis>: Faculty members attending the presentation suggested providing solution alternatives after the cases and having the students rank and evaluate these alternatives.  They felt this would allow for a more focused use of the ethics tests (reversibility, harm, publicity) as well as the values test.  The student module developed after the presentation includes solution alternatives to the decision points of the scenarios.</item>
+					<item><emphasis>Students will express interest and want to share their experiences</emphasis>: Leaving space in the presentation for student comments led to several, unexpected but beneficial incidents.  For example, students discussed non-disclosure clauses they had encountered in internship work and one student described his experience with a drug test held during an interview.  Several students had specific questions about confidentiality and job mobility issues and one student discussed concerns about working on weapons projects one-on-one with the presenter.</item></list><figure id="element-159"><title>Module Presentation</title>
+					<media id="idm6273888" alt=""><download src="Being_an_Ethical_Job_Candidate.ppt" mime-type="application/vnd.ms-powerpoint"/></media>
+					<caption>PowerPoint presentation upon which the student module is based.</caption>
+				</figure><list id="element-469" list-type="bulleted"><title>New Scenarios from Spring and Fall 2007</title>
+<item>The student module, <emphasis>Being and Ethical Job Candidate,</emphasis> has been taught two times now, the first in the Spring semester of 2007 and the second in the Fall semester of 2007.  During these activities, participants suggested several scenarios which could and should be developed into cases for future versions of this workshop</item>
+	<item><emphasis>Scenario 1:</emphasis> Students in a Mechanical Engineering design class spend part of their semester working on site at a local industry.  Even though this is primarily for academic credit and experience, students during their work will have access to confidential proprietary information.  To prevent this from falling into the hands of competitors, students are required to sign "non disclosure agreements." In one semester, the non disclosure agreement was so strict that the professor did not have enough information to evaluate the students' work for their grade.</item>
+	<item><emphasis>Scenario 2:</emphasis> A recruiter at the UPRM Job Fair recently complained about several UPRM students he invited to his company for interviews.  Even though they pretended to have a "serious interest" in the job and accepted travel funds to fly to the interview, it soon became apparent that their interest was not serious.  The recruiter pointed out to a faculty member that this would hurt future students at UPRM because this company would be reluctant to recruit there in the future.</item>
+<item><emphasis>Scenario 3:</emphasis> A course in mechanical engineering requires that students work on site at a local industry.  At the last minute, the human resources department told the professor of the course that all students who planned to work there had to take a drug test.  Many of the students objected and told the professor that they would not have signed up for the course if they had known that they would have had to take this drug test.  Was it proper to require that the students undergo a drug test?  With what kind of advance warning is required in this situation?  Is it the violation of UPRM policy or any university's policy to require drug tests in these circumstances?  Could universities develop procedures to prevent these kinds of problems in the future?  What kind of procedures?</item></list>
+			</section>
+			<!-- END OF SUBSECTION -->
+			<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+			<section id="supplements">
+				<title>Appendix (Annotated)</title>
+				<list id="element-171" list-type="enumerated"><title>Bibliographical Information</title>
+					<item>Jose A Cruz, William J. Frey, and Halley D. Sanchez. (2004) "The Ethics Bowl in Engineering Ethics at the University of Puerto Rico- Mayaguez". Teaching Ethics 4(2), Spring 2004: 15-32.</item>
+					<item>Michael Davis (2004) "Five Kinds of Ethics Across the Curriculum". Teaching Ethics 4(2), Spring 2004: 1-14.</item>
+					<item>Michael Davis (1998) Thinking Like An Engineer: Studies in the Ethics of a Profession. U.K.: Oxford University Press: 119-156.</item>
+					<item>Michael S. Pritchard (1996) Reasonable Children: Moral Education and Moral Learning. Lawrence, KS: University of Kansas Press: 140-163</item>
+					<item>James Rest, Darcia Narvaez, Muriel J. Bebeau, and Stephen J. Thoma (1999) Postconventional Moral Thinking: A Neo-Kohlbergian Approach. Mihway, New Jersey: Lawrence Erlbaum Associates, Publishers: 104.
+Mark Johnson (1993) Moral Imagination: Implications of Cognitive Science for Ethics. Chicago, IL: University of Chicago Press: 8-9.</item>
+					<item>Jose A Cruz and William J. Frey (2003) "An Effective Strategy for Integrating Ethics Across the Curriculum in Engineering: An ABET 2000 Challenge" Science and Engineering Ethics 9(4): 546-548.</item>
+					<item>Chuck Huff and William Frey (2005) Moral pedagogy and Practical Ethics, Science and Engineering Ethics, 11(3): 389-408.</item>
+					<item>Victoria S. Wike, “Professional Engineering Ethical Behavior: A Values-based Approach”. Proceedings of the 2001 American Society for Engineering Education Annual Conference and Exposition, Session 2461. 
+</item>
+					<item>Michael S. Pritchard (1996) Reasonable Children: Moral Education and Moral Learning. Lawrence, KS: University of Kansas Press: 11.</item>
+					<item>Stephen H. Unger (1994) Controlling Technology: Ethics and the Responsible Engineer. New York: John Wiley and Sons: 315-325 (Reprinted with permission of IEEE). </item>
+					<item>Robert C. Solomon (1999) A Better Way to Think About Business: How Personal Integrity Leads to Corporate Success. Oxford, UK: Oxford University Press: 71-114.</item>
+<item><label>Science and Engineering Ethics,</label>David R. Haws (2004) <emphasis>The Importance of Meta-Ethics in Engineering Education,</emphasis>  10(2): 204-210.</item>
+					<item>See above link to Online Ethics, www.onlineethics.org, for case on which “Oh, By the Way” is based.</item>
+				</list><para id="apxexamples">Additional information or annotations for instructors regarding the Student Module Appendix</para>
+			</section>
+			<!-- END OF SUBSECTION -->
+		</section>
+		<!-- END OF SECOND SECTION AFTER ALL SUBSECTIONS-->
+	</content>
+</document>
